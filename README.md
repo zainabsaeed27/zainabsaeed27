@@ -107,7 +107,7 @@ University of the Punjab
 ## 🌐 Connect With Me
 
 - Freelancer: https://www.freelancer.com/u/zainabsaeed2707
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/zainabsaeed27
 - LinkedIn: https://www.linkedin.com/in/zainab-saeed-599215243/
 - portfolio: https://tranquil-arithmetic-a011ce.netlify.app/
 
