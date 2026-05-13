@@ -1,16 +1,124 @@
-## Hi there 👋
+# Hi, I'm Zainab Saeed 👋
 
-<!--
-**zainabsaeed27/zainabsaeed27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI Developer | SQL & Python Enthusiast
 
-Here are some ideas to get you started:
+I’m a passionate Data Analyst focused on transforming raw data into meaningful insights through visualization, storytelling, and analytics. I enjoy solving business problems using data and building interactive dashboards that support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📊 Skilled in Data Analysis & Visualization
+- 📈 Experienced with Power BI, Tableau, Excel, SQL & Python
+- 🧹 Strong understanding of Data Cleaning & Exploratory Data Analysis (EDA)
+- 📌 Interested in Business Intelligence & Dashboard Development
+- 🎯 Focused on turning complex datasets into clear actionable insights
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Analysis
+- Python
+- SQL
+- Pandas
+- NumPy
+- Excel
+- Power Query
+
+### Visualization & BI
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+
+### Other Tools
+- Git & GitHub
+- Jupyter Notebook
+- Microsoft Excel
+- Pivot Tables
+
+---
+
+## 📂 Featured Projects
+
+### 📺 Amazon Prime Dashboard
+Interactive dashboard analyzing Amazon Prime streaming content with filters for:
+- Movies vs TV Shows
+- Ratings & Genres
+- Directors & Descriptions
+
+### 🛍️ Vrinda Store Sales Dashboard
+Sales analytics dashboard showing:
+- Order trends
+- Customer demographics
+- Sales channel performance
+- Product category insights
+
+### 🚴 Bike Sales Dashboard
+Customer behavior analysis dashboard identifying:
+- Bike purchase patterns
+- Demographic insights
+- Marketing opportunities
+
+### 💰 Financial Performance Dashboard
+Power BI dashboard for:
+- Profitability analysis
+- Regional sales insights
+- Customer & product performance
+- Interactive KPI tracking
+
+### 🏥 Medical Insurance Cost Analytics
+Healthcare analytics dashboard exploring:
+- Insurance charges
+- BMI & smoking impact
+- Regional trends
+- Demographic analysis
+
+---
+
+## 📚 Experience
+
+### Data Analyst Intern — Technocolabs
+- Built interactive Power BI dashboards
+- Performed data cleaning and EDA
+- Generated business insights using analytical techniques
+
+### Associate Software Engineer — Devsinc
+- Worked on Microsoft Dynamics 365 customization
+- Managed reports, workflows, and security roles
+- Supported enterprise-level business solutions
+
+---
+
+## 🎓 Education
+
+**Bachelor’s in Software Engineering**  
+University of the Punjab
+
+---
+
+## 📜 Certifications
+
+- Python for Everybody Specialization — Coursera
+
+---
+
+## 🌐 Connect With Me
+
+- Freelancer: https://www.freelancer.com/u/zainabsaeed2707
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## 📈 Goals for 2026
+
+- Build more real-world analytics projects
+- Improve machine learning & advanced analytics skills
+- Contribute to open-source data projects
+- Grow as a Business Intelligence professional
+
+---
+
+⭐ *“Data is powerful when transformed into insights that drive decisions.”*
