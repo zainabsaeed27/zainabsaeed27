@@ -1,4 +1,4 @@
-# Hi, I'm Zainab Saeed 
+# I'm Zainab Saeed 
 
 ### Data Analyst | Power BI Developer | SQL & Python Enthusiast
 
