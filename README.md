@@ -33,7 +33,7 @@ I’m a passionate Data Analyst focused on transforming raw data into meaningful
 - Seaborn
 
 ### Other Tools
-- Git & GitHub
+- GitHub
 - Jupyter Notebook
 - Microsoft Excel
 - Pivot Tables
@@ -116,9 +116,8 @@ University of the Punjab
 ## 📈 Goals for 2026
 
 - Build more real-world analytics projects
-- Improve machine learning & advanced analytics skills
-- Contribute to open-source data projects
-- Grow as a Business Intelligence professional
+- Improve  advanced analytics skills
+- Grow as a Data Analyst professional
 
 ---
 
