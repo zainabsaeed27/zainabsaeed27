@@ -97,6 +97,7 @@ Healthcare analytics dashboard exploring:
 
 **Bachelor’s in Software Engineering**  
 University of the Punjab - FCIT
+
 **Master’s in Data Science**  
 University of the Punjab - FCIT
 
