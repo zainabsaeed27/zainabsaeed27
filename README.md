@@ -78,30 +78,34 @@ Healthcare analytics dashboard exploring:
 ---
 
 ## 📚 Experience
-
-### Data Analyst Intern — Technocolabs
-- Built interactive Power BI dashboards
-- Performed data cleaning and EDA
-- Generated business insights using analytical techniques
-
 ### Associate Software Engineer — Devsinc
 - Worked on Microsoft Dynamics 365 customization
 - Managed reports, workflows, and security roles
 - Supported enterprise-level business solutions
-
+  
+### Data Analyst Intern — Technocolabs
+- Built interactive Power BI dashboards
+- Performed data cleaning and EDA
+- Generated business insights using analytical techniques
+ 
+### Instructor — University of Central Punjab
+- Lead Programming labs and live coding sessions
+-Supporting students to learn core languages
 ---
 
 ## 🎓 Education
 
 **Bachelor’s in Software Engineering**  
-University of the Punjab
+University of the Punjab - FCIT
+**Master’s in Data Science**  
+University of the Punjab - FCIT
 
 ---
 
 ## 📜 Certifications
 
 - Python for Everybody Specialization — Coursera
-
+- Gen AI in CyberSecurity — Coursera
 ---
 
 ## 🌐 Connect With Me
