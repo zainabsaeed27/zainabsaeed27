@@ -46,7 +46,7 @@ I’m a passionate Data Analyst focused on transforming raw data into meaningful
 Interactive dashboard analyzing Amazon Prime streaming content with filters for:
 - Movies vs TV Shows
 - Ratings & Genres
-- Directors & Descriptions
+- Directors &  Descriptions
 
 ### 🛍️ Vrinda Store Sales Dashboard
 Sales analytics dashboard showing:
